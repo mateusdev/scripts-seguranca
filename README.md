@@ -1,3 +1,3 @@
 # scripts-seguranca
-Repositório que contém alguns scripts básicos para estudos em segurança da informação e hacking.
-Feitos para estudantes dessas áreas mas com uso prático.
+Repository containing some scripts for security information and hacking, made by me during my studies.
+These basic scripts are for educational purposes.
